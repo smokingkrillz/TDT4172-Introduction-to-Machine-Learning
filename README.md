@@ -1,1 +1,1 @@
-# Intro-til-KI
+# Introduction to Machine Learning TDT4172
