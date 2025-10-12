@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+Assignment2/nn_data.csv
+Assignment2/unsupervised_data.csv
+Assignment2/sample_submission.csv
+
 # Distribution / packaging
 .Python
 build/
@@ -133,6 +137,10 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+
+Assignment\ 2/nn_data.csv
+Assignment\ 2/unsupervised_data.csv
+Assignment\ 2/sample_submission.csv
 
 # Environments
 .env
