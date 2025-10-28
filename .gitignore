@@ -9,7 +9,7 @@ __pycache__/
 Assignment2/nn_data.csv
 Assignment2/unsupervised_data.csv
 Assignment2/sample_submission.csv
-
+Assignment2/venvvenv
 # Distribution / packaging
 .Python
 build/
